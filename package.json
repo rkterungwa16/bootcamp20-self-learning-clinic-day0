@@ -1,0 +1,26 @@
+{
+  "name": "bootcamp20-self-learning-clinic-day0",
+  "version": "0.0.1",
+  "description": "Bootcamp exercises for self-learning clinic day 0",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkterungwa16/bootcamp20-self-learning-clinic-day0.git"
+  },
+  "keywords": [
+    "findMinMax",
+    "fizzBuzz"
+  ],
+  "author": "Richard Terungwa Kombol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkterungwa16/bootcamp20-self-learning-clinic-day0/issues"
+  },
+  "homepage": "https://github.com/rkterungwa16/bootcamp20-self-learning-clinic-day0#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
