@@ -32,4 +32,12 @@ describe("Fizz Buzz tests ", function() {
     expect(fizzBuzz(101)).toBe(101);
   });
 
+  it("should return 'FizzBuzz' since it is divisible by 3 and 5", function () {
+    expect(fizzBuzz(120)).toBe('FizzBuzz');
+  });
+
+  it("should return 'Fizz' since it is divisible by 3", function () {
+    expect(fizzBuzz(39)).toBe('Fizz');
+  });
+
 });
