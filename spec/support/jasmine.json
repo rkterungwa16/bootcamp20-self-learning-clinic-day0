@@ -1,10 +1,10 @@
 {
   "spec_dir": "spec",
   "spec_files": [
-    "**/*[sS]pec.js"
+    "**/librarySpec.js"
   ],
   "helpers": [
-    "helpers/**/*.js"
+    "find-minimum-maximum-number/app/library.js"
   ],
   "stopSpecOnExpectationFailure": false,
   "random": false
